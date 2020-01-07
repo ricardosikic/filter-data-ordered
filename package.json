@@ -1,0 +1,19 @@
+{
+  "name": "filter-data",
+  "version": "1.0.0",
+  "description": "\"filter data module that help you to clean arrays and sort them by alphabetical order or numeric order\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardosikic/filter-data-ordered.git"
+  },
+  "author": "Ricardo Leiva Sikic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardosikic/filter-data-ordered/issues"
+  },
+  "homepage": "https://github.com/ricardosikic/filter-data-ordered#readme"
+}
